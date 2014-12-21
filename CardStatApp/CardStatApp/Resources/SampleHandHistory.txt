@@ -1,0 +1,2021 @@
+﻿PokerStars Hand #126747213121: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XVI (1250/2500) - 2014/12/12 16:36:57 ET
+Table '1066955653 1' 9-max Seat #7 is the button
+Seat 1: sticks828 (27361 in chips) 
+Seat 2: dimadron214 (8000 in chips) 
+Seat 3: Arsen78x (83176 in chips) 
+Seat 4: cortichapa5 (21625 in chips) 
+Seat 5: leszek123a5 (29340 in chips) 
+Seat 7: SenSej19 (26641 in chips) 
+Seat 8: yves2711 (17165 in chips) 
+Seat 9: RobRoberts82 (53515 in chips) 
+sticks828: posts the ante 250
+dimadron214: posts the ante 250
+Arsen78x: posts the ante 250
+cortichapa5: posts the ante 250
+leszek123a5: posts the ante 250
+SenSej19: posts the ante 250
+yves2711: posts the ante 250
+RobRoberts82: posts the ante 250
+yves2711: posts small blind 1250
+RobRoberts82: posts big blind 2500
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [Ts 9h]
+sticks828: folds 
+dimadron214: folds 
+Arsen78x: raises 2500 to 5000
+cortichapa5: folds 
+leszek123a5: folds 
+SenSej19 has timed out while being disconnected
+SenSej19: folds 
+yves2711: calls 3750
+RobRoberts82: folds 
+*** FLOP *** [Qh 5s Kc]
+yves2711: bets 2500
+SenSej19 is disconnected 
+Arsen78x: folds 
+Uncalled bet (2500) returned to yves2711
+yves2711 collected 14500 from pot
+yves2711: doesn't show hand 
+*** SUMMARY ***
+Total pot 14500 | Rake 0 
+Board [Qh 5s Kc]
+Seat 1: sticks828 folded before Flop (didn't bet)
+Seat 2: dimadron214 folded before Flop (didn't bet)
+Seat 3: Arsen78x folded on the Flop
+Seat 4: cortichapa5 folded before Flop (didn't bet)
+Seat 5: leszek123a5 folded before Flop (didn't bet)
+Seat 7: SenSej19 (button) folded before Flop (didn't bet)
+Seat 8: yves2711 (small blind) collected (14500)
+Seat 9: RobRoberts82 (big blind) folded before Flop
+
+
+
+PokerStars Hand #126747256200: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XVI (1250/2500) - 2014/12/12 16:37:38 ET
+Table '1066955653 1' 9-max Seat #8 is the button
+Seat 1: sticks828 (27111 in chips) 
+Seat 2: dimadron214 (7750 in chips) 
+Seat 3: Arsen78x (77926 in chips) 
+Seat 4: cortichapa5 (21375 in chips) 
+Seat 5: leszek123a5 (29090 in chips) 
+Seat 7: SenSej19 (26391 in chips) is sitting out
+Seat 8: yves2711 (26415 in chips) 
+Seat 9: RobRoberts82 (50765 in chips) 
+sticks828: posts the ante 250
+dimadron214: posts the ante 250
+Arsen78x: posts the ante 250
+cortichapa5: posts the ante 250
+leszek123a5: posts the ante 250
+SenSej19: posts the ante 250
+yves2711: posts the ante 250
+RobRoberts82: posts the ante 250
+RobRoberts82: posts small blind 1250
+sticks828: posts big blind 2500
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [Qd Kh]
+dimadron214: folds 
+Arsen78x: raises 2500 to 5000
+cortichapa5: folds 
+leszek123a5: folds 
+SenSej19: folds 
+yves2711: folds 
+RobRoberts82: calls 3750
+sticks828: folds 
+*** FLOP *** [8s 5h Qs]
+RobRoberts82: checks 
+Arsen78x: bets 15000
+RobRoberts82: raises 30515 to 45515 and is all-in
+Arsen78x: calls 30515
+*** TURN *** [8s 5h Qs] [5d]
+*** RIVER *** [8s 5h Qs 5d] [Tc]
+*** SHOW DOWN ***
+RobRoberts82: shows [Qd Kh] (two pair, Queens and Fives)
+Arsen78x: shows [Kc Qh] (two pair, Queens and Fives)
+RobRoberts82 collected 52765 from pot
+Arsen78x collected 52765 from pot
+*** SUMMARY ***
+Total pot 105530 | Rake 0 
+Board [8s 5h Qs 5d Tc]
+Seat 1: sticks828 (big blind) folded before Flop
+Seat 2: dimadron214 folded before Flop (didn't bet)
+Seat 3: Arsen78x showed [Kc Qh] and won (52765) with two pair, Queens and Fives
+Seat 4: cortichapa5 folded before Flop (didn't bet)
+Seat 5: leszek123a5 folded before Flop (didn't bet)
+Seat 7: SenSej19 folded before Flop (didn't bet)
+Seat 8: yves2711 (button) folded before Flop (didn't bet)
+Seat 9: RobRoberts82 (small blind) showed [Qd Kh] and won (52765) with two pair, Queens and Fives
+
+
+
+PokerStars Hand #126747294678: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XVI (1250/2500) - 2014/12/12 16:38:15 ET
+Table '1066955653 1' 9-max Seat #9 is the button
+Seat 1: sticks828 (24361 in chips) 
+Seat 2: dimadron214 (7500 in chips) 
+Seat 3: Arsen78x (79926 in chips) 
+Seat 4: cortichapa5 (21125 in chips) 
+Seat 5: leszek123a5 (28840 in chips) 
+Seat 7: SenSej19 (26141 in chips) is sitting out
+Seat 8: yves2711 (26165 in chips) 
+Seat 9: RobRoberts82 (52765 in chips) 
+sticks828: posts the ante 250
+dimadron214: posts the ante 250
+Arsen78x: posts the ante 250
+cortichapa5: posts the ante 250
+leszek123a5: posts the ante 250
+SenSej19: posts the ante 250
+yves2711: posts the ante 250
+RobRoberts82: posts the ante 250
+sticks828: posts small blind 1250
+dimadron214: posts big blind 2500
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [7s Td]
+Arsen78x: folds 
+cortichapa5: folds 
+leszek123a5: folds 
+SenSej19: folds 
+yves2711: calls 2500
+RobRoberts82: folds 
+sticks828: folds 
+dimadron214: raises 4750 to 7250 and is all-in
+yves2711: calls 4750
+RobRoberts82 said, "that was exciting"
+*** FLOP *** [5d As 7d]
+*** TURN *** [5d As 7d] [8d]
+*** RIVER *** [5d As 7d 8d] [8c]
+*** SHOW DOWN ***
+dimadron214: shows [Ad 2h] (two pair, Aces and Eights)
+yves2711: shows [3h Jh] (a pair of Eights)
+dimadron214 collected 17750 from pot
+*** SUMMARY ***
+Total pot 17750 | Rake 0 
+Board [5d As 7d 8d 8c]
+Seat 1: sticks828 (small blind) folded before Flop
+Seat 2: dimadron214 (big blind) showed [Ad 2h] and won (17750) with two pair, Aces and Eights
+Seat 3: Arsen78x folded before Flop (didn't bet)
+Seat 4: cortichapa5 folded before Flop (didn't bet)
+Seat 5: leszek123a5 folded before Flop (didn't bet)
+Seat 7: SenSej19 folded before Flop (didn't bet)
+Seat 8: yves2711 showed [3h Jh] and lost with a pair of Eights
+Seat 9: RobRoberts82 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #126747323454: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XVI (1250/2500) - 2014/12/12 16:38:42 ET
+Table '1066955653 1' 9-max Seat #1 is the button
+Seat 1: sticks828 (22861 in chips) 
+Seat 2: dimadron214 (17750 in chips) 
+Seat 3: Arsen78x (79676 in chips) 
+Seat 4: cortichapa5 (20875 in chips) 
+Seat 5: leszek123a5 (28590 in chips) 
+Seat 7: SenSej19 (25891 in chips) is sitting out
+Seat 8: yves2711 (18665 in chips) 
+Seat 9: RobRoberts82 (52515 in chips) 
+sticks828: posts the ante 250
+dimadron214: posts the ante 250
+Arsen78x: posts the ante 250
+cortichapa5: posts the ante 250
+leszek123a5: posts the ante 250
+SenSej19: posts the ante 250
+yves2711: posts the ante 250
+RobRoberts82: posts the ante 250
+dimadron214: posts small blind 1250
+Arsen78x: posts big blind 2500
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [3s 8h]
+cortichapa5: folds 
+leszek123a5: folds 
+SenSej19: folds 
+yves2711: calls 2500
+RobRoberts82: folds 
+sticks828: calls 2500
+dimadron214: folds 
+Arsen78x: checks 
+*** FLOP *** [Qc 5c 4c]
+Arsen78x: checks 
+yves2711: checks 
+sticks828: checks 
+*** TURN *** [Qc 5c 4c] [Jd]
+Arsen78x: checks 
+yves2711: checks 
+sticks828: checks 
+*** RIVER *** [Qc 5c 4c Jd] [7h]
+Arsen78x: bets 2500
+yves2711: calls 2500
+sticks828: folds 
+*** SHOW DOWN ***
+Arsen78x: shows [Td Ah] (high card Ace)
+yves2711: shows [8c 7s] (a pair of Sevens)
+yves2711 collected 15750 from pot
+*** SUMMARY ***
+Total pot 15750 | Rake 0 
+Board [Qc 5c 4c Jd 7h]
+Seat 1: sticks828 (button) folded on the River
+Seat 2: dimadron214 (small blind) folded before Flop
+Seat 3: Arsen78x (big blind) showed [Td Ah] and lost with high card Ace
+Seat 4: cortichapa5 folded before Flop (didn't bet)
+Seat 5: leszek123a5 folded before Flop (didn't bet)
+Seat 7: SenSej19 folded before Flop (didn't bet)
+Seat 8: yves2711 showed [8c 7s] and won (15750) with a pair of Sevens
+Seat 9: RobRoberts82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #126747362138: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XVI (1250/2500) - 2014/12/12 16:39:19 ET
+Table '1066955653 1' 9-max Seat #2 is the button
+Seat 1: sticks828 (20111 in chips) 
+Seat 2: dimadron214 (16250 in chips) 
+Seat 3: Arsen78x (74426 in chips) 
+Seat 4: cortichapa5 (20625 in chips) 
+Seat 5: leszek123a5 (28340 in chips) 
+Seat 7: SenSej19 (25641 in chips) is sitting out
+Seat 8: yves2711 (29165 in chips) 
+Seat 9: RobRoberts82 (52265 in chips) 
+sticks828: posts the ante 250
+dimadron214: posts the ante 250
+Arsen78x: posts the ante 250
+cortichapa5: posts the ante 250
+leszek123a5: posts the ante 250
+SenSej19: posts the ante 250
+yves2711: posts the ante 250
+RobRoberts82: posts the ante 250
+Arsen78x: posts small blind 1250
+cortichapa5: posts big blind 2500
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [2s 8h]
+leszek123a5: calls 2500
+SenSej19: folds 
+yves2711: calls 2500
+RobRoberts82: folds 
+sticks828: folds 
+dimadron214: folds 
+Arsen78x: calls 1250
+cortichapa5: checks 
+*** FLOP *** [6s Jc 3d]
+Arsen78x: bets 5000
+cortichapa5: folds 
+leszek123a5: folds 
+yves2711: folds 
+Uncalled bet (5000) returned to Arsen78x
+Arsen78x collected 12000 from pot
+Arsen78x: doesn't show hand 
+*** SUMMARY ***
+Total pot 12000 | Rake 0 
+Board [6s Jc 3d]
+Seat 1: sticks828 folded before Flop (didn't bet)
+Seat 2: dimadron214 (button) folded before Flop (didn't bet)
+Seat 3: Arsen78x (small blind) collected (12000)
+Seat 4: cortichapa5 (big blind) folded on the Flop
+Seat 5: leszek123a5 folded on the Flop
+Seat 7: SenSej19 folded before Flop (didn't bet)
+Seat 8: yves2711 folded on the Flop
+Seat 9: RobRoberts82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #126747391307: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XVI (1250/2500) - 2014/12/12 16:39:47 ET
+Table '1066955653 1' 9-max Seat #3 is the button
+Seat 1: sticks828 (19861 in chips) 
+Seat 2: dimadron214 (16000 in chips) 
+Seat 3: Arsen78x (83676 in chips) 
+Seat 4: cortichapa5 (17875 in chips) 
+Seat 5: leszek123a5 (25590 in chips) 
+Seat 7: SenSej19 (25391 in chips) is sitting out
+Seat 8: yves2711 (26415 in chips) 
+Seat 9: RobRoberts82 (52015 in chips) 
+sticks828: posts the ante 250
+dimadron214: posts the ante 250
+Arsen78x: posts the ante 250
+cortichapa5: posts the ante 250
+leszek123a5: posts the ante 250
+SenSej19: posts the ante 250
+yves2711: posts the ante 250
+RobRoberts82: posts the ante 250
+cortichapa5: posts small blind 1250
+leszek123a5: posts big blind 2500
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [Kc Ad]
+SenSej19: folds 
+yves2711: calls 2500
+RobRoberts82: raises 2500 to 5000
+sticks828: folds 
+dimadron214: folds 
+Arsen78x: calls 5000
+cortichapa5: folds 
+leszek123a5: folds 
+yves2711: calls 2500
+*** FLOP *** [7d Qc Kd]
+yves2711: checks 
+RobRoberts82: bets 5000
+Arsen78x: folds 
+yves2711: calls 5000
+*** TURN *** [7d Qc Kd] [Qh]
+yves2711: checks 
+RobRoberts82: bets 15375
+yves2711: calls 15375
+*** RIVER *** [7d Qc Kd Qh] [5c]
+yves2711: bets 790 and is all-in
+RobRoberts82: calls 790
+*** SHOW DOWN ***
+yves2711: shows [Th Js] (a pair of Queens)
+RobRoberts82: shows [Kc Ad] (two pair, Kings and Queens)
+RobRoberts82 collected 63080 from pot
+yves2711 finished the tournament in 15th place and received 28200.
+*** SUMMARY ***
+Total pot 63080 | Rake 0 
+Board [7d Qc Kd Qh 5c]
+Seat 1: sticks828 folded before Flop (didn't bet)
+Seat 2: dimadron214 folded before Flop (didn't bet)
+Seat 3: Arsen78x (button) folded on the Flop
+Seat 4: cortichapa5 (small blind) folded before Flop
+Seat 5: leszek123a5 (big blind) folded before Flop
+Seat 7: SenSej19 folded before Flop (didn't bet)
+Seat 8: yves2711 showed [Th Js] and lost with a pair of Queens
+Seat 9: RobRoberts82 showed [Kc Ad] and won (63080) with two pair, Kings and Queens
+
+
+
+PokerStars Hand #126747438815: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XVII (1500/3000) - 2014/12/12 16:40:32 ET
+Table '1066955653 1' 9-max Seat #4 is the button
+Seat 1: sticks828 (19611 in chips) 
+Seat 2: dimadron214 (15750 in chips) 
+Seat 3: Arsen78x (78426 in chips) 
+Seat 4: cortichapa5 (16375 in chips) 
+Seat 5: leszek123a5 (22840 in chips) 
+Seat 7: SenSej19 (25141 in chips) 
+Seat 9: RobRoberts82 (88680 in chips) 
+sticks828: posts the ante 300
+dimadron214: posts the ante 300
+Arsen78x: posts the ante 300
+cortichapa5: posts the ante 300
+leszek123a5: posts the ante 300
+SenSej19: posts the ante 300
+RobRoberts82: posts the ante 300
+leszek123a5: posts small blind 1500
+SenSej19: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [As 3d]
+RobRoberts82: folds 
+sticks828: folds 
+dimadron214: folds 
+Arsen78x: calls 3000
+cortichapa5: folds 
+leszek123a5: calls 1500
+SenSej19: checks 
+*** FLOP *** [Jc 7d 3c]
+leszek123a5: checks 
+SenSej19: bets 6000
+Arsen78x: calls 6000
+leszek123a5: folds 
+*** TURN *** [Jc 7d 3c] [Th]
+SenSej19: bets 9000
+Arsen78x: folds 
+Uncalled bet (9000) returned to SenSej19
+SenSej19 collected 23100 from pot
+SenSej19: doesn't show hand 
+*** SUMMARY ***
+Total pot 23100 | Rake 0 
+Board [Jc 7d 3c Th]
+Seat 1: sticks828 folded before Flop (didn't bet)
+Seat 2: dimadron214 folded before Flop (didn't bet)
+Seat 3: Arsen78x folded on the Turn
+Seat 4: cortichapa5 (button) folded before Flop (didn't bet)
+Seat 5: leszek123a5 (small blind) folded on the Flop
+Seat 7: SenSej19 (big blind) collected (23100)
+Seat 9: RobRoberts82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #126747474040: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XVII (1500/3000) - 2014/12/12 16:41:05 ET
+Table '1066955653 1' 9-max Seat #5 is the button
+Seat 1: sticks828 (19311 in chips) 
+Seat 2: dimadron214 (15450 in chips) 
+Seat 3: Arsen78x (69126 in chips) 
+Seat 4: cortichapa5 (16075 in chips) 
+Seat 5: leszek123a5 (19540 in chips) 
+Seat 7: SenSej19 (38941 in chips) 
+Seat 9: RobRoberts82 (88380 in chips) 
+sticks828: posts the ante 300
+dimadron214: posts the ante 300
+Arsen78x: posts the ante 300
+cortichapa5: posts the ante 300
+leszek123a5: posts the ante 300
+SenSej19: posts the ante 300
+RobRoberts82: posts the ante 300
+SenSej19: posts small blind 1500
+RobRoberts82: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [Jc 9s]
+sticks828: folds 
+dimadron214: folds 
+Arsen78x is disconnected 
+Arsen78x is connected 
+Arsen78x: calls 3000
+cortichapa5: folds 
+leszek123a5: folds 
+SenSej19: calls 1500
+RobRoberts82: checks 
+*** FLOP *** [6d Tc 8c]
+SenSej19: checks 
+RobRoberts82: checks 
+Arsen78x: bets 3000
+SenSej19: calls 3000
+RobRoberts82: calls 3000
+*** TURN *** [6d Tc 8c] [3d]
+SenSej19: checks 
+RobRoberts82: checks 
+Arsen78x: bets 3000
+SenSej19: folds 
+RobRoberts82: calls 3000
+*** RIVER *** [6d Tc 8c 3d] [2s]
+RobRoberts82: checks 
+Arsen78x: bets 3000
+RobRoberts82: folds 
+Uncalled bet (3000) returned to Arsen78x
+Arsen78x collected 26100 from pot
+Arsen78x: doesn't show hand 
+*** SUMMARY ***
+Total pot 26100 | Rake 0 
+Board [6d Tc 8c 3d 2s]
+Seat 1: sticks828 folded before Flop (didn't bet)
+Seat 2: dimadron214 folded before Flop (didn't bet)
+Seat 3: Arsen78x collected (26100)
+Seat 4: cortichapa5 folded before Flop (didn't bet)
+Seat 5: leszek123a5 (button) folded before Flop (didn't bet)
+Seat 7: SenSej19 (small blind) folded on the Turn
+Seat 9: RobRoberts82 (big blind) folded on the River
+
+
+
+PokerStars Hand #126747545239: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XVII (1500/3000) - 2014/12/12 16:42:13 ET
+Table '1066955653 1' 9-max Seat #7 is the button
+Seat 1: sticks828 (19011 in chips) 
+Seat 2: dimadron214 (15150 in chips) 
+Seat 3: Arsen78x (85926 in chips) 
+Seat 4: cortichapa5 (15775 in chips) 
+Seat 5: leszek123a5 (19240 in chips) 
+Seat 7: SenSej19 (32641 in chips) 
+Seat 9: RobRoberts82 (79080 in chips) 
+sticks828: posts the ante 300
+dimadron214: posts the ante 300
+Arsen78x: posts the ante 300
+cortichapa5: posts the ante 300
+leszek123a5: posts the ante 300
+SenSej19: posts the ante 300
+RobRoberts82: posts the ante 300
+RobRoberts82: posts small blind 1500
+sticks828: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [Kd Jh]
+dimadron214: folds 
+Arsen78x: folds 
+cortichapa5: folds 
+leszek123a5: calls 3000
+SenSej19: folds 
+RobRoberts82: calls 1500
+sticks828: checks 
+*** FLOP *** [8d 2h 2s]
+RobRoberts82: checks 
+sticks828: checks 
+leszek123a5: checks 
+*** TURN *** [8d 2h 2s] [7d]
+RobRoberts82: bets 3000
+sticks828: calls 3000
+leszek123a5: calls 3000
+*** RIVER *** [8d 2h 2s 7d] [6s]
+RobRoberts82: bets 3000
+sticks828: calls 3000
+leszek123a5: calls 3000
+*** SHOW DOWN ***
+RobRoberts82: shows [Kd Jh] (a pair of Deuces)
+sticks828: shows [Jd 8s] (two pair, Eights and Deuces)
+leszek123a5: mucks hand 
+sticks828 collected 29100 from pot
+*** SUMMARY ***
+Total pot 29100 | Rake 0 
+Board [8d 2h 2s 7d 6s]
+Seat 1: sticks828 (big blind) showed [Jd 8s] and won (29100) with two pair, Eights and Deuces
+Seat 2: dimadron214 folded before Flop (didn't bet)
+Seat 3: Arsen78x folded before Flop (didn't bet)
+Seat 4: cortichapa5 folded before Flop (didn't bet)
+Seat 5: leszek123a5 mucked [As Kh]
+Seat 7: SenSej19 (button) folded before Flop (didn't bet)
+Seat 9: RobRoberts82 (small blind) showed [Kd Jh] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #126747586950: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XVII (1500/3000) - 2014/12/12 16:42:52 ET
+Table '1066955653 1' 9-max Seat #9 is the button
+Seat 1: sticks828 (38811 in chips) 
+Seat 2: dimadron214 (14850 in chips) 
+Seat 3: Arsen78x (85626 in chips) 
+Seat 4: cortichapa5 (15475 in chips) 
+Seat 5: leszek123a5 (9940 in chips) 
+Seat 7: SenSej19 (32341 in chips) 
+Seat 9: RobRoberts82 (69780 in chips) 
+sticks828: posts the ante 300
+dimadron214: posts the ante 300
+Arsen78x: posts the ante 300
+cortichapa5: posts the ante 300
+leszek123a5: posts the ante 300
+SenSej19: posts the ante 300
+RobRoberts82: posts the ante 300
+sticks828: posts small blind 1500
+dimadron214: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [9s 6h]
+Arsen78x: folds 
+cortichapa5: folds 
+leszek123a5: folds 
+SenSej19: calls 3000
+RobRoberts82: folds 
+sticks828: calls 1500
+dimadron214: checks 
+*** FLOP *** [2c 3d As]
+sticks828: checks 
+dimadron214: checks 
+SenSej19: bets 6000
+sticks828: folds 
+dimadron214: folds 
+Uncalled bet (6000) returned to SenSej19
+SenSej19 collected 11100 from pot
+SenSej19: doesn't show hand 
+*** SUMMARY ***
+Total pot 11100 | Rake 0 
+Board [2c 3d As]
+Seat 1: sticks828 (small blind) folded on the Flop
+Seat 2: dimadron214 (big blind) folded on the Flop
+Seat 3: Arsen78x folded before Flop (didn't bet)
+Seat 4: cortichapa5 folded before Flop (didn't bet)
+Seat 5: leszek123a5 folded before Flop (didn't bet)
+Seat 7: SenSej19 collected (11100)
+Seat 9: RobRoberts82 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #126747613034: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XVII (1500/3000) - 2014/12/12 16:43:17 ET
+Table '1066955653 1' 9-max Seat #1 is the button
+Seat 1: sticks828 (35511 in chips) 
+Seat 2: dimadron214 (11550 in chips) 
+Seat 3: Arsen78x (85326 in chips) 
+Seat 4: cortichapa5 (15175 in chips) 
+Seat 5: leszek123a5 (9640 in chips) 
+Seat 7: SenSej19 (40141 in chips) 
+Seat 9: RobRoberts82 (69480 in chips) 
+sticks828: posts the ante 300
+dimadron214: posts the ante 300
+Arsen78x: posts the ante 300
+cortichapa5: posts the ante 300
+leszek123a5: posts the ante 300
+SenSej19: posts the ante 300
+RobRoberts82: posts the ante 300
+dimadron214: posts small blind 1500
+Arsen78x: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [Ac 8h]
+cortichapa5: folds 
+leszek123a5: folds 
+SenSej19: calls 3000
+RobRoberts82: calls 3000
+sticks828: calls 3000
+dimadron214: folds 
+Arsen78x: checks 
+*** FLOP *** [6d Ts 5h]
+Arsen78x: checks 
+SenSej19: checks 
+RobRoberts82: checks 
+sticks828: checks 
+*** TURN *** [6d Ts 5h] [6h]
+Arsen78x: checks 
+SenSej19: checks 
+RobRoberts82: checks 
+sticks828: checks 
+*** RIVER *** [6d Ts 5h 6h] [4s]
+Arsen78x: checks 
+SenSej19: checks 
+RobRoberts82: checks 
+sticks828: checks 
+*** SHOW DOWN ***
+Arsen78x: shows [3c 9h] (a pair of Sixes)
+SenSej19: shows [Kd 9d] (a pair of Sixes - King kicker)
+RobRoberts82: shows [Ac 8h] (a pair of Sixes - Ace kicker)
+sticks828: mucks hand 
+RobRoberts82 collected 15600 from pot
+*** SUMMARY ***
+Total pot 15600 | Rake 0 
+Board [6d Ts 5h 6h 4s]
+Seat 1: sticks828 (button) mucked [Jd 8d]
+Seat 2: dimadron214 (small blind) folded before Flop
+Seat 3: Arsen78x (big blind) showed [3c 9h] and lost with a pair of Sixes
+Seat 4: cortichapa5 folded before Flop (didn't bet)
+Seat 5: leszek123a5 folded before Flop (didn't bet)
+Seat 7: SenSej19 showed [Kd 9d] and lost with a pair of Sixes
+Seat 9: RobRoberts82 showed [Ac 8h] and won (15600) with a pair of Sixes
+
+
+
+PokerStars Hand #126747665007: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XVII (1500/3000) - 2014/12/12 16:44:06 ET
+Table '1066955653 1' 9-max Seat #2 is the button
+Seat 1: sticks828 (32211 in chips) 
+Seat 2: dimadron214 (9750 in chips) 
+Seat 3: Arsen78x (82026 in chips) 
+Seat 4: cortichapa5 (14875 in chips) 
+Seat 5: leszek123a5 (9340 in chips) 
+Seat 7: SenSej19 (36841 in chips) 
+Seat 9: RobRoberts82 (81780 in chips) 
+sticks828: posts the ante 300
+dimadron214: posts the ante 300
+Arsen78x: posts the ante 300
+cortichapa5: posts the ante 300
+leszek123a5: posts the ante 300
+SenSej19: posts the ante 300
+RobRoberts82: posts the ante 300
+Arsen78x: posts small blind 1500
+cortichapa5: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [Kc Th]
+leszek123a5: folds 
+SenSej19: folds 
+RobRoberts82: folds 
+sticks828: folds 
+dimadron214: calls 3000
+Arsen78x: calls 1500
+cortichapa5: checks 
+*** FLOP *** [6c Jd 4d]
+Arsen78x: bets 3000
+cortichapa5: folds 
+dimadron214: folds 
+Uncalled bet (3000) returned to Arsen78x
+Arsen78x collected 11100 from pot
+Arsen78x: doesn't show hand 
+*** SUMMARY ***
+Total pot 11100 | Rake 0 
+Board [6c Jd 4d]
+Seat 1: sticks828 folded before Flop (didn't bet)
+Seat 2: dimadron214 (button) folded on the Flop
+Seat 3: Arsen78x (small blind) collected (11100)
+Seat 4: cortichapa5 (big blind) folded on the Flop
+Seat 5: leszek123a5 folded before Flop (didn't bet)
+Seat 7: SenSej19 folded before Flop (didn't bet)
+Seat 9: RobRoberts82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #126747714184: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XVII (1500/3000) - 2014/12/12 16:44:53 ET
+Table '1066955653 1' 9-max Seat #3 is the button
+Seat 1: sticks828 (31911 in chips) 
+Seat 2: dimadron214 (6450 in chips) 
+Seat 3: Arsen78x (89826 in chips) 
+Seat 4: cortichapa5 (11575 in chips) 
+Seat 5: leszek123a5 (9040 in chips) 
+Seat 7: SenSej19 (36541 in chips) 
+Seat 9: RobRoberts82 (81480 in chips) 
+sticks828: posts the ante 300
+dimadron214: posts the ante 300
+Arsen78x: posts the ante 300
+cortichapa5: posts the ante 300
+leszek123a5: posts the ante 300
+SenSej19: posts the ante 300
+RobRoberts82: posts the ante 300
+cortichapa5: posts small blind 1500
+leszek123a5: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [9s 7s]
+SenSej19: folds 
+RobRoberts82: folds 
+sticks828: folds 
+dimadron214: folds 
+Arsen78x has timed out
+Arsen78x: folds 
+cortichapa5: calls 1500
+leszek123a5: raises 5740 to 8740 and is all-in
+cortichapa5: folds 
+Uncalled bet (5740) returned to leszek123a5
+leszek123a5 collected 8100 from pot
+leszek123a5: doesn't show hand 
+*** SUMMARY ***
+Total pot 8100 | Rake 0 
+Seat 1: sticks828 folded before Flop (didn't bet)
+Seat 2: dimadron214 folded before Flop (didn't bet)
+Seat 3: Arsen78x (button) folded before Flop (didn't bet)
+Seat 4: cortichapa5 (small blind) folded before Flop
+Seat 5: leszek123a5 (big blind) collected (8100)
+Seat 7: SenSej19 folded before Flop (didn't bet)
+Seat 9: RobRoberts82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #126747764361: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XVIII (2000/4000) - 2014/12/12 16:45:40 ET
+Table '1066955653 1' 9-max Seat #4 is the button
+Seat 2: dimadron214 (6150 in chips) 
+Seat 3: Arsen78x (89526 in chips) is sitting out
+Seat 4: cortichapa5 (8275 in chips) 
+Seat 5: leszek123a5 (13840 in chips) 
+Seat 7: SenSej19 (36241 in chips) 
+Seat 9: RobRoberts82 (81180 in chips) 
+dimadron214: posts the ante 400
+Arsen78x: posts the ante 400
+cortichapa5: posts the ante 400
+leszek123a5: posts the ante 400
+SenSej19: posts the ante 400
+RobRoberts82: posts the ante 400
+leszek123a5: posts small blind 2000
+SenSej19: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [4d Js]
+RobRoberts82: folds 
+dimadron214: folds 
+Arsen78x: calls 4000
+cortichapa5: raises 3875 to 7875 and is all-in
+leszek123a5: folds 
+SenSej19: calls 3875
+Arsen78x: folds 
+*** FLOP *** [4s 9c 5d]
+*** TURN *** [4s 9c 5d] [Ad]
+*** RIVER *** [4s 9c 5d Ad] [7d]
+*** SHOW DOWN ***
+SenSej19: shows [Td 6s] (high card Ace)
+cortichapa5: shows [Ac 8c] (a pair of Aces)
+cortichapa5 collected 24150 from pot
+*** SUMMARY ***
+Total pot 24150 | Rake 0 
+Board [4s 9c 5d Ad 7d]
+Seat 2: dimadron214 folded before Flop (didn't bet)
+Seat 3: Arsen78x folded before Flop
+Seat 4: cortichapa5 (button) showed [Ac 8c] and won (24150) with a pair of Aces
+Seat 5: leszek123a5 (small blind) folded before Flop
+Seat 7: SenSej19 (big blind) showed [Td 6s] and lost with high card Ace
+Seat 9: RobRoberts82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #126747803102: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XVIII (2000/4000) - 2014/12/12 16:46:16 ET
+Table '1066955653 1' 9-max Seat #5 is the button
+Seat 2: dimadron214 (5750 in chips) 
+Seat 3: Arsen78x (85126 in chips) 
+Seat 4: cortichapa5 (24150 in chips) 
+Seat 5: leszek123a5 (11440 in chips) 
+Seat 7: SenSej19 (27966 in chips) 
+Seat 9: RobRoberts82 (80780 in chips) 
+dimadron214: posts the ante 400
+Arsen78x: posts the ante 400
+cortichapa5: posts the ante 400
+leszek123a5: posts the ante 400
+SenSej19: posts the ante 400
+RobRoberts82: posts the ante 400
+SenSej19: posts small blind 2000
+RobRoberts82: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [8s Kh]
+dimadron214: raises 1350 to 5350 and is all-in
+Arsen78x: calls 5350
+cortichapa5: folds 
+leszek123a5: folds 
+SenSej19: calls 3350
+RobRoberts82: folds 
+*** FLOP *** [4d 5s 7h]
+SenSej19: bets 4000
+Arsen78x: folds 
+Uncalled bet (4000) returned to SenSej19
+*** TURN *** [4d 5s 7h] [3h]
+*** RIVER *** [4d 5s 7h 3h] [8d]
+*** SHOW DOWN ***
+SenSej19: shows [6c 8h] (a straight, Four to Eight)
+dimadron214: shows [Kc As] (high card Ace)
+SenSej19 collected 22450 from pot
+dimadron214 finished the tournament in 11th place and received 32900.
+*** SUMMARY ***
+Total pot 22450 | Rake 0 
+Board [4d 5s 7h 3h 8d]
+Seat 2: dimadron214 showed [Kc As] and lost with high card Ace
+Seat 3: Arsen78x folded on the Flop
+Seat 4: cortichapa5 folded before Flop (didn't bet)
+Seat 5: leszek123a5 (button) folded before Flop (didn't bet)
+Seat 7: SenSej19 (small blind) showed [6c 8h] and won (22450) with a straight, Four to Eight
+Seat 9: RobRoberts82 (big blind) folded before Flop
+
+
+
+PokerStars Hand #126747828078: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XVIII (2000/4000) - 2014/12/12 16:46:40 ET
+Table '1066955653 1' 9-max Seat #7 is the button
+Seat 3: Arsen78x (79376 in chips) 
+Seat 4: cortichapa5 (23750 in chips) 
+Seat 5: leszek123a5 (11040 in chips) 
+Seat 7: SenSej19 (44666 in chips) 
+Seat 9: RobRoberts82 (76380 in chips) 
+Arsen78x: posts the ante 400
+cortichapa5: posts the ante 400
+leszek123a5: posts the ante 400
+SenSej19: posts the ante 400
+RobRoberts82: posts the ante 400
+RobRoberts82: posts small blind 2000
+Arsen78x: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [8d Ks]
+cortichapa5: folds 
+leszek123a5: raises 6640 to 10640 and is all-in
+SenSej19: folds 
+RobRoberts82: folds 
+Arsen78x: calls 6640
+*** FLOP *** [2h 3s 7d]
+*** TURN *** [2h 3s 7d] [Qd]
+*** RIVER *** [2h 3s 7d Qd] [Th]
+*** SHOW DOWN ***
+Arsen78x: shows [6s Ts] (a pair of Tens)
+leszek123a5: shows [Kh Kc] (a pair of Kings)
+leszek123a5 collected 25280 from pot
+*** SUMMARY ***
+Total pot 25280 | Rake 0 
+Board [2h 3s 7d Qd Th]
+Seat 3: Arsen78x (big blind) showed [6s Ts] and lost with a pair of Tens
+Seat 4: cortichapa5 folded before Flop (didn't bet)
+Seat 5: leszek123a5 showed [Kh Kc] and won (25280) with a pair of Kings
+Seat 7: SenSej19 (button) folded before Flop (didn't bet)
+Seat 9: RobRoberts82 (small blind) folded before Flop
+
+
+
+PokerStars Hand #126747852706: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XVIII (2000/4000) - 2014/12/12 16:47:04 ET
+Table '1066955653 1' 9-max Seat #9 is the button
+Seat 3: Arsen78x (68336 in chips) 
+Seat 4: cortichapa5 (23350 in chips) 
+Seat 5: leszek123a5 (25280 in chips) 
+Seat 7: SenSej19 (44266 in chips) 
+Seat 9: RobRoberts82 (73980 in chips) 
+Arsen78x: posts the ante 400
+cortichapa5: posts the ante 400
+leszek123a5: posts the ante 400
+SenSej19: posts the ante 400
+RobRoberts82: posts the ante 400
+Arsen78x: posts small blind 2000
+cortichapa5: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [Jc Jh]
+leszek123a5: raises 20880 to 24880 and is all-in
+SenSej19: folds 
+RobRoberts82: calls 24880
+Arsen78x: folds 
+cortichapa5: folds 
+*** FLOP *** [8h 3h 2c]
+*** TURN *** [8h 3h 2c] [2s]
+*** RIVER *** [8h 3h 2c 2s] [7c]
+*** SHOW DOWN ***
+leszek123a5: shows [Kh Ks] (two pair, Kings and Deuces)
+RobRoberts82: shows [Jc Jh] (two pair, Jacks and Deuces)
+leszek123a5 collected 57760 from pot
+*** SUMMARY ***
+Total pot 57760 | Rake 0 
+Board [8h 3h 2c 2s 7c]
+Seat 3: Arsen78x (small blind) folded before Flop
+Seat 4: cortichapa5 (big blind) folded before Flop
+Seat 5: leszek123a5 showed [Kh Ks] and won (57760) with two pair, Kings and Deuces
+Seat 7: SenSej19 folded before Flop (didn't bet)
+Seat 9: RobRoberts82 (button) showed [Jc Jh] and lost with two pair, Jacks and Deuces
+
+
+
+PokerStars Hand #126747876026: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XVIII (2000/4000) - 2014/12/12 16:47:26 ET
+Table '1066955653 1' 9-max Seat #3 is the button
+Seat 3: Arsen78x (65936 in chips) 
+Seat 4: cortichapa5 (18950 in chips) 
+Seat 5: leszek123a5 (57760 in chips) 
+Seat 7: SenSej19 (43866 in chips) 
+Seat 9: RobRoberts82 (48700 in chips) 
+Arsen78x: posts the ante 400
+cortichapa5: posts the ante 400
+leszek123a5: posts the ante 400
+SenSej19: posts the ante 400
+RobRoberts82: posts the ante 400
+cortichapa5: posts small blind 2000
+leszek123a5: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [9s 8d]
+SenSej19: folds 
+RobRoberts82: folds 
+Arsen78x: raises 4000 to 8000
+cortichapa5: folds 
+leszek123a5: calls 4000
+*** FLOP *** [Ah 6s 4d]
+leszek123a5: checks 
+Arsen78x: bets 8000
+leszek123a5: folds 
+Uncalled bet (8000) returned to Arsen78x
+Arsen78x collected 20000 from pot
+Arsen78x: doesn't show hand 
+*** SUMMARY ***
+Total pot 20000 | Rake 0 
+Board [Ah 6s 4d]
+Seat 3: Arsen78x (button) collected (20000)
+Seat 4: cortichapa5 (small blind) folded before Flop
+Seat 5: leszek123a5 (big blind) folded on the Flop
+Seat 7: SenSej19 folded before Flop (didn't bet)
+Seat 9: RobRoberts82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #126747900929: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XVIII (2000/4000) - 2014/12/12 16:47:49 ET
+Table '1066955653 1' 9-max Seat #4 is the button
+Seat 3: Arsen78x (77536 in chips) 
+Seat 4: cortichapa5 (16550 in chips) 
+Seat 5: leszek123a5 (49360 in chips) 
+Seat 7: SenSej19 (43466 in chips) 
+Seat 9: RobRoberts82 (48300 in chips) 
+Arsen78x: posts the ante 400
+cortichapa5: posts the ante 400
+leszek123a5: posts the ante 400
+SenSej19: posts the ante 400
+RobRoberts82: posts the ante 400
+leszek123a5: posts small blind 2000
+SenSej19: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [9d 8c]
+RobRoberts82: folds 
+Arsen78x: folds 
+cortichapa5: folds 
+leszek123a5: folds 
+Uncalled bet (2000) returned to SenSej19
+SenSej19 collected 6000 from pot
+SenSej19: doesn't show hand 
+*** SUMMARY ***
+Total pot 6000 | Rake 0 
+Seat 3: Arsen78x folded before Flop (didn't bet)
+Seat 4: cortichapa5 (button) folded before Flop (didn't bet)
+Seat 5: leszek123a5 (small blind) folded before Flop
+Seat 7: SenSej19 (big blind) collected (6000)
+Seat 9: RobRoberts82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #126747918016: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XVIII (2000/4000) - 2014/12/12 16:48:06 ET
+Table '1066955653 1' 9-max Seat #5 is the button
+Seat 3: Arsen78x (77136 in chips) 
+Seat 4: cortichapa5 (16150 in chips) 
+Seat 5: leszek123a5 (46960 in chips) 
+Seat 7: SenSej19 (47066 in chips) 
+Seat 9: RobRoberts82 (47900 in chips) 
+Arsen78x: posts the ante 400
+cortichapa5: posts the ante 400
+leszek123a5: posts the ante 400
+SenSej19: posts the ante 400
+RobRoberts82: posts the ante 400
+SenSej19: posts small blind 2000
+RobRoberts82: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [Ah 7c]
+Arsen78x: calls 4000
+cortichapa5: folds 
+leszek123a5: folds 
+SenSej19: calls 2000
+RobRoberts82: checks 
+*** FLOP *** [2h 9d 8d]
+SenSej19: bets 8000
+RobRoberts82: folds 
+Arsen78x: folds 
+Uncalled bet (8000) returned to SenSej19
+SenSej19 collected 14000 from pot
+SenSej19: doesn't show hand 
+*** SUMMARY ***
+Total pot 14000 | Rake 0 
+Board [2h 9d 8d]
+Seat 3: Arsen78x folded on the Flop
+Seat 4: cortichapa5 folded before Flop (didn't bet)
+Seat 5: leszek123a5 (button) folded before Flop (didn't bet)
+Seat 7: SenSej19 (small blind) collected (14000)
+Seat 9: RobRoberts82 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #126747949437: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XVIII (2000/4000) - 2014/12/12 16:48:36 ET
+Table '1066955653 1' 9-max Seat #7 is the button
+Seat 3: Arsen78x (72736 in chips) 
+Seat 4: cortichapa5 (15750 in chips) 
+Seat 5: leszek123a5 (46560 in chips) 
+Seat 7: SenSej19 (56666 in chips) 
+Seat 9: RobRoberts82 (43500 in chips) 
+Arsen78x: posts the ante 400
+cortichapa5: posts the ante 400
+leszek123a5: posts the ante 400
+SenSej19: posts the ante 400
+RobRoberts82: posts the ante 400
+RobRoberts82: posts small blind 2000
+Arsen78x: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [8s As]
+cortichapa5: folds 
+leszek123a5: folds 
+SenSej19: calls 4000
+RobRoberts82: calls 2000
+Arsen78x: checks 
+*** FLOP *** [Kh 3s 8d]
+RobRoberts82: checks 
+Arsen78x: bets 4000
+SenSej19: folds 
+RobRoberts82: folds 
+Uncalled bet (4000) returned to Arsen78x
+Arsen78x collected 14000 from pot
+Arsen78x: doesn't show hand 
+*** SUMMARY ***
+Total pot 14000 | Rake 0 
+Board [Kh 3s 8d]
+Seat 3: Arsen78x (big blind) collected (14000)
+Seat 4: cortichapa5 folded before Flop (didn't bet)
+Seat 5: leszek123a5 folded before Flop (didn't bet)
+Seat 7: SenSej19 (button) folded on the Flop
+Seat 9: RobRoberts82 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #126747978805: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XVIII (2000/4000) - 2014/12/12 16:49:03 ET
+Table '1066955653 1' 9-max Seat #9 is the button
+Seat 3: Arsen78x (82336 in chips) 
+Seat 4: cortichapa5 (15350 in chips) 
+Seat 5: leszek123a5 (46160 in chips) 
+Seat 7: SenSej19 (52266 in chips) 
+Seat 9: RobRoberts82 (39100 in chips) 
+Arsen78x: posts the ante 400
+cortichapa5: posts the ante 400
+leszek123a5: posts the ante 400
+SenSej19: posts the ante 400
+RobRoberts82: posts the ante 400
+Arsen78x: posts small blind 2000
+cortichapa5: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [7c 4h]
+leszek123a5: folds 
+SenSej19: folds 
+RobRoberts82: folds 
+Arsen78x: raises 4000 to 8000
+cortichapa5: folds 
+Uncalled bet (4000) returned to Arsen78x
+Arsen78x collected 10000 from pot
+Arsen78x: doesn't show hand 
+*** SUMMARY ***
+Total pot 10000 | Rake 0 
+Seat 3: Arsen78x (small blind) collected (10000)
+Seat 4: cortichapa5 (big blind) folded before Flop
+Seat 5: leszek123a5 folded before Flop (didn't bet)
+Seat 7: SenSej19 folded before Flop (didn't bet)
+Seat 9: RobRoberts82 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #126748007545: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XVIII (2000/4000) - 2014/12/12 16:49:31 ET
+Table '1066955653 1' 9-max Seat #3 is the button
+Seat 3: Arsen78x (87936 in chips) 
+Seat 4: cortichapa5 (10950 in chips) 
+Seat 5: leszek123a5 (45760 in chips) 
+Seat 7: SenSej19 (51866 in chips) 
+Seat 9: RobRoberts82 (38700 in chips) 
+Arsen78x: posts the ante 400
+cortichapa5: posts the ante 400
+leszek123a5: posts the ante 400
+SenSej19: posts the ante 400
+RobRoberts82: posts the ante 400
+cortichapa5: posts small blind 2000
+leszek123a5: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [Qc Ah]
+SenSej19: folds 
+RobRoberts82: raises 4000 to 8000
+Arsen78x: calls 8000
+cortichapa5: folds 
+leszek123a5: calls 4000
+*** FLOP *** [7s Th Ks]
+leszek123a5: checks 
+RobRoberts82: bets 14000
+Arsen78x: folds 
+leszek123a5: folds 
+Uncalled bet (14000) returned to RobRoberts82
+RobRoberts82 collected 28000 from pot
+*** SUMMARY ***
+Total pot 28000 | Rake 0 
+Board [7s Th Ks]
+Seat 3: Arsen78x (button) folded on the Flop
+Seat 4: cortichapa5 (small blind) folded before Flop
+Seat 5: leszek123a5 (big blind) folded on the Flop
+Seat 7: SenSej19 folded before Flop (didn't bet)
+Seat 9: RobRoberts82 collected (28000)
+
+
+
+PokerStars Hand #126748050140: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XVIII (2000/4000) - 2014/12/12 16:50:11 ET
+Table '1066955653 1' 9-max Seat #4 is the button
+Seat 3: Arsen78x (79536 in chips) 
+Seat 4: cortichapa5 (8550 in chips) 
+Seat 5: leszek123a5 (37360 in chips) 
+Seat 7: SenSej19 (51466 in chips) 
+Seat 9: RobRoberts82 (58300 in chips) 
+Arsen78x: posts the ante 400
+cortichapa5: posts the ante 400
+leszek123a5: posts the ante 400
+SenSej19: posts the ante 400
+RobRoberts82: posts the ante 400
+leszek123a5: posts small blind 2000
+SenSej19: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [7c Qc]
+RobRoberts82: folds 
+Arsen78x: folds 
+cortichapa5: folds 
+leszek123a5: calls 2000
+SenSej19: checks 
+*** FLOP *** [Th 4d Ad]
+leszek123a5: checks 
+SenSej19: bets 4000
+leszek123a5: folds 
+Uncalled bet (4000) returned to SenSej19
+SenSej19 collected 10000 from pot
+SenSej19: doesn't show hand 
+*** SUMMARY ***
+Total pot 10000 | Rake 0 
+Board [Th 4d Ad]
+Seat 3: Arsen78x folded before Flop (didn't bet)
+Seat 4: cortichapa5 (button) folded before Flop (didn't bet)
+Seat 5: leszek123a5 (small blind) folded on the Flop
+Seat 7: SenSej19 (big blind) collected (10000)
+Seat 9: RobRoberts82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #126748085717: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XIX (2500/5000) - 2014/12/12 16:50:46 ET
+Table '1066955653 1' 9-max Seat #5 is the button
+Seat 3: Arsen78x (79136 in chips) 
+Seat 4: cortichapa5 (8150 in chips) 
+Seat 5: leszek123a5 (32960 in chips) 
+Seat 7: SenSej19 (57066 in chips) 
+Seat 9: RobRoberts82 (57900 in chips) 
+Arsen78x: posts the ante 500
+cortichapa5: posts the ante 500
+leszek123a5: posts the ante 500
+SenSej19: posts the ante 500
+RobRoberts82: posts the ante 500
+SenSej19: posts small blind 2500
+RobRoberts82: posts big blind 5000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [2c 4s]
+Arsen78x: folds 
+cortichapa5: raises 2650 to 7650 and is all-in
+leszek123a5: folds 
+SenSej19: folds 
+RobRoberts82: folds 
+Uncalled bet (2650) returned to cortichapa5
+cortichapa5 collected 15000 from pot
+cortichapa5: doesn't show hand 
+*** SUMMARY ***
+Total pot 15000 | Rake 0 
+Seat 3: Arsen78x folded before Flop (didn't bet)
+Seat 4: cortichapa5 collected (15000)
+Seat 5: leszek123a5 (button) folded before Flop (didn't bet)
+Seat 7: SenSej19 (small blind) folded before Flop
+Seat 9: RobRoberts82 (big blind) folded before Flop
+
+
+
+PokerStars Hand #126748109715: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XIX (2500/5000) - 2014/12/12 16:51:09 ET
+Table '1066955653 1' 9-max Seat #7 is the button
+Seat 1: sticks828 (16222 in chips) 
+Seat 2: RomekPL (112181 in chips) 
+Seat 3: Arsen78x (78636 in chips) 
+Seat 4: cortichapa5 (17650 in chips) 
+Seat 5: leszek123a5 (32460 in chips) 
+Seat 6: Juscool (188537 in chips) 
+Seat 7: SenSej19 (54066 in chips) 
+Seat 8: fabio_amaroo (102348 in chips) out of hand (moved from another table into small blind)
+Seat 9: RobRoberts82 (52400 in chips) 
+sticks828: posts the ante 500
+RomekPL: posts the ante 500
+Arsen78x: posts the ante 500
+cortichapa5: posts the ante 500
+leszek123a5: posts the ante 500
+Juscool: posts the ante 500
+SenSej19: posts the ante 500
+RobRoberts82: posts the ante 500
+RobRoberts82: posts small blind 2500
+sticks828: posts big blind 5000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [Qd Ts]
+RomekPL: folds 
+Arsen78x: folds 
+cortichapa5: folds 
+leszek123a5: folds 
+Juscool: folds 
+SenSej19: folds 
+RobRoberts82: calls 2500
+sticks828: checks 
+*** FLOP *** [9d Ah 4d]
+RobRoberts82: bets 5000
+sticks828: calls 5000
+*** TURN *** [9d Ah 4d] [6d]
+RobRoberts82: bets 5000
+sticks828: calls 5000
+*** RIVER *** [9d Ah 4d 6d] [Qs]
+RobRoberts82: bets 5000
+sticks828: calls 722 and is all-in
+Uncalled bet (4278) returned to RobRoberts82
+*** SHOW DOWN ***
+RobRoberts82: shows [Qd Ts] (a pair of Queens)
+sticks828: shows [7d 2d] (a flush, Nine high)
+sticks828 collected 35444 from pot
+*** SUMMARY ***
+Total pot 35444 | Rake 0 
+Board [9d Ah 4d 6d Qs]
+Seat 1: sticks828 (big blind) showed [7d 2d] and won (35444) with a flush, Nine high
+Seat 2: RomekPL folded before Flop (didn't bet)
+Seat 3: Arsen78x folded before Flop (didn't bet)
+Seat 4: cortichapa5 folded before Flop (didn't bet)
+Seat 5: leszek123a5 folded before Flop (didn't bet)
+Seat 6: Juscool folded before Flop (didn't bet)
+Seat 7: SenSej19 (button) folded before Flop (didn't bet)
+Seat 9: RobRoberts82 (small blind) showed [Qd Ts] and lost with a pair of Queens
+
+
+
+PokerStars Hand #126748171775: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XIX (2500/5000) - 2014/12/12 16:52:09 ET
+Table '1066955653 1' 9-max Seat #9 is the button
+Seat 1: sticks828 (35444 in chips) 
+Seat 2: RomekPL (111681 in chips) 
+Seat 3: Arsen78x (78136 in chips) 
+Seat 4: cortichapa5 (17150 in chips) 
+Seat 5: leszek123a5 (31960 in chips) 
+Seat 6: Juscool (188037 in chips) 
+Seat 7: SenSej19 (53566 in chips) 
+Seat 8: fabio_amaroo (102348 in chips) 
+Seat 9: RobRoberts82 (36178 in chips) 
+sticks828: posts the ante 500
+RomekPL: posts the ante 500
+Arsen78x: posts the ante 500
+cortichapa5: posts the ante 500
+leszek123a5: posts the ante 500
+Juscool: posts the ante 500
+SenSej19: posts the ante 500
+fabio_amaroo: posts the ante 500
+RobRoberts82: posts the ante 500
+sticks828: posts small blind 2500
+RomekPL: posts big blind 5000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [5s 3d]
+Arsen78x: calls 5000
+cortichapa5: folds 
+leszek123a5: folds 
+Juscool: calls 5000
+SenSej19: folds 
+fabio_amaroo: folds 
+RobRoberts82: folds 
+sticks828: folds 
+RomekPL: checks 
+*** FLOP *** [Qc 4s Jh]
+RomekPL: checks 
+Arsen78x: bets 10000
+Juscool: raises 10000 to 20000
+RomekPL: folds 
+Arsen78x: calls 10000
+*** TURN *** [Qc 4s Jh] [Kc]
+Arsen78x: checks 
+Juscool: checks 
+*** RIVER *** [Qc 4s Jh Kc] [3c]
+Arsen78x: bets 5000
+Juscool: calls 5000
+*** SHOW DOWN ***
+Arsen78x: shows [9s Qh] (a pair of Queens)
+Juscool: shows [Qd Ac] (a pair of Queens - Ace kicker)
+Juscool collected 72000 from pot
+*** SUMMARY ***
+Total pot 72000 | Rake 0 
+Board [Qc 4s Jh Kc 3c]
+Seat 1: sticks828 (small blind) folded before Flop
+Seat 2: RomekPL (big blind) folded on the Flop
+Seat 3: Arsen78x showed [9s Qh] and lost with a pair of Queens
+Seat 4: cortichapa5 folded before Flop (didn't bet)
+Seat 5: leszek123a5 folded before Flop (didn't bet)
+Seat 6: Juscool showed [Qd Ac] and won (72000) with a pair of Queens
+Seat 7: SenSej19 folded before Flop (didn't bet)
+Seat 8: fabio_amaroo folded before Flop (didn't bet)
+Seat 9: RobRoberts82 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #126748219581: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XIX (2500/5000) - 2014/12/12 16:52:55 ET
+Table '1066955653 1' 9-max Seat #1 is the button
+Seat 1: sticks828 (32444 in chips) 
+Seat 2: RomekPL (106181 in chips) 
+Seat 3: Arsen78x (47636 in chips) 
+Seat 4: cortichapa5 (16650 in chips) 
+Seat 5: leszek123a5 (31460 in chips) 
+Seat 6: Juscool (229537 in chips) 
+Seat 7: SenSej19 (53066 in chips) 
+Seat 8: fabio_amaroo (101848 in chips) 
+Seat 9: RobRoberts82 (35678 in chips) 
+sticks828: posts the ante 500
+RomekPL: posts the ante 500
+Arsen78x: posts the ante 500
+cortichapa5: posts the ante 500
+leszek123a5: posts the ante 500
+Juscool: posts the ante 500
+SenSej19: posts the ante 500
+fabio_amaroo: posts the ante 500
+RobRoberts82: posts the ante 500
+RomekPL: posts small blind 2500
+Arsen78x: posts big blind 5000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [2d Th]
+cortichapa5: folds 
+leszek123a5: folds 
+Juscool: folds 
+SenSej19: raises 10000 to 15000
+fabio_amaroo: folds 
+RobRoberts82: folds 
+sticks828: folds 
+RomekPL: folds 
+Arsen78x: folds 
+Uncalled bet (10000) returned to SenSej19
+SenSej19 collected 17000 from pot
+SenSej19: doesn't show hand 
+*** SUMMARY ***
+Total pot 17000 | Rake 0 
+Seat 1: sticks828 (button) folded before Flop (didn't bet)
+Seat 2: RomekPL (small blind) folded before Flop
+Seat 3: Arsen78x (big blind) folded before Flop
+Seat 4: cortichapa5 folded before Flop (didn't bet)
+Seat 5: leszek123a5 folded before Flop (didn't bet)
+Seat 6: Juscool folded before Flop (didn't bet)
+Seat 7: SenSej19 collected (17000)
+Seat 8: fabio_amaroo folded before Flop (didn't bet)
+Seat 9: RobRoberts82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #126748239204: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XIX (2500/5000) - 2014/12/12 16:53:14 ET
+Table '1066955653 1' 9-max Seat #2 is the button
+Seat 1: sticks828 (31944 in chips) 
+Seat 2: RomekPL (103181 in chips) 
+Seat 3: Arsen78x (42136 in chips) 
+Seat 4: cortichapa5 (16150 in chips) 
+Seat 5: leszek123a5 (30960 in chips) 
+Seat 6: Juscool (229037 in chips) 
+Seat 7: SenSej19 (64566 in chips) 
+Seat 8: fabio_amaroo (101348 in chips) 
+Seat 9: RobRoberts82 (35178 in chips) 
+sticks828: posts the ante 500
+RomekPL: posts the ante 500
+Arsen78x: posts the ante 500
+cortichapa5: posts the ante 500
+leszek123a5: posts the ante 500
+Juscool: posts the ante 500
+SenSej19: posts the ante 500
+fabio_amaroo: posts the ante 500
+RobRoberts82: posts the ante 500
+Arsen78x: posts small blind 2500
+cortichapa5: posts big blind 5000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [8c Kc]
+leszek123a5: folds 
+Juscool: folds 
+SenSej19: folds 
+fabio_amaroo: calls 5000
+RobRoberts82: folds 
+sticks828: folds 
+RomekPL: folds 
+Arsen78x: calls 2500
+cortichapa5: raises 10650 to 15650 and is all-in
+fabio_amaroo: calls 10650
+Arsen78x: calls 10650
+*** FLOP *** [6s 9d Ad]
+Arsen78x: bets 5000
+fabio_amaroo: folds 
+Uncalled bet (5000) returned to Arsen78x
+*** TURN *** [6s 9d Ad] [Ts]
+*** RIVER *** [6s 9d Ad Ts] [Jc]
+*** SHOW DOWN ***
+Arsen78x: shows [9s Qh] (a pair of Nines)
+cortichapa5: shows [Kd Qc] (a straight, Ten to Ace)
+cortichapa5 collected 51450 from pot
+*** SUMMARY ***
+Total pot 51450 | Rake 0 
+Board [6s 9d Ad Ts Jc]
+Seat 1: sticks828 folded before Flop (didn't bet)
+Seat 2: RomekPL (button) folded before Flop (didn't bet)
+Seat 3: Arsen78x (small blind) showed [9s Qh] and lost with a pair of Nines
+Seat 4: cortichapa5 (big blind) showed [Kd Qc] and won (51450) with a straight, Ten to Ace
+Seat 5: leszek123a5 folded before Flop (didn't bet)
+Seat 6: Juscool folded before Flop (didn't bet)
+Seat 7: SenSej19 folded before Flop (didn't bet)
+Seat 8: fabio_amaroo folded on the Flop
+Seat 9: RobRoberts82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #126748280403: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XIX (2500/5000) - 2014/12/12 16:53:54 ET
+Table '1066955653 1' 9-max Seat #3 is the button
+Seat 1: sticks828 (31444 in chips) 
+Seat 2: RomekPL (102681 in chips) 
+Seat 3: Arsen78x (25986 in chips) 
+Seat 4: cortichapa5 (51450 in chips) 
+Seat 5: leszek123a5 (30460 in chips) 
+Seat 6: Juscool (228537 in chips) 
+Seat 7: SenSej19 (64066 in chips) 
+Seat 8: fabio_amaroo (85198 in chips) 
+Seat 9: RobRoberts82 (34678 in chips) 
+sticks828: posts the ante 500
+RomekPL: posts the ante 500
+Arsen78x: posts the ante 500
+cortichapa5: posts the ante 500
+leszek123a5: posts the ante 500
+Juscool: posts the ante 500
+SenSej19: posts the ante 500
+fabio_amaroo: posts the ante 500
+RobRoberts82: posts the ante 500
+cortichapa5: posts small blind 2500
+leszek123a5: posts big blind 5000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [4c 4s]
+Juscool: folds 
+SenSej19: folds 
+fabio_amaroo: folds 
+RobRoberts82: calls 5000
+sticks828: folds 
+RomekPL: folds 
+Arsen78x: folds 
+cortichapa5: calls 2500
+leszek123a5: raises 24960 to 29960 and is all-in
+RobRoberts82: folds 
+cortichapa5: folds 
+Uncalled bet (24960) returned to leszek123a5
+leszek123a5 collected 19500 from pot
+leszek123a5: doesn't show hand 
+*** SUMMARY ***
+Total pot 19500 | Rake 0 
+Seat 1: sticks828 folded before Flop (didn't bet)
+Seat 2: RomekPL folded before Flop (didn't bet)
+Seat 3: Arsen78x (button) folded before Flop (didn't bet)
+Seat 4: cortichapa5 (small blind) folded before Flop
+Seat 5: leszek123a5 (big blind) collected (19500)
+Seat 6: Juscool folded before Flop (didn't bet)
+Seat 7: SenSej19 folded before Flop (didn't bet)
+Seat 8: fabio_amaroo folded before Flop (didn't bet)
+Seat 9: RobRoberts82 folded before Flop
+
+
+
+PokerStars Hand #126748302442: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XIX (2500/5000) - 2014/12/12 16:54:16 ET
+Table '1066955653 1' 9-max Seat #4 is the button
+Seat 1: sticks828 (30944 in chips) 
+Seat 2: RomekPL (102181 in chips) 
+Seat 3: Arsen78x (25486 in chips) 
+Seat 4: cortichapa5 (45950 in chips) 
+Seat 5: leszek123a5 (44460 in chips) 
+Seat 6: Juscool (228037 in chips) 
+Seat 7: SenSej19 (63566 in chips) 
+Seat 8: fabio_amaroo (84698 in chips) 
+Seat 9: RobRoberts82 (29178 in chips) 
+sticks828: posts the ante 500
+RomekPL: posts the ante 500
+Arsen78x: posts the ante 500
+cortichapa5: posts the ante 500
+leszek123a5: posts the ante 500
+Juscool: posts the ante 500
+SenSej19: posts the ante 500
+fabio_amaroo: posts the ante 500
+RobRoberts82: posts the ante 500
+leszek123a5: posts small blind 2500
+Juscool: posts big blind 5000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [6d Jh]
+SenSej19: folds 
+fabio_amaroo: folds 
+RobRoberts82: folds 
+sticks828: folds 
+RomekPL: folds 
+Arsen78x: folds 
+cortichapa5: folds 
+leszek123a5: calls 2500
+Juscool: checks 
+*** FLOP *** [Js 8c 3d]
+leszek123a5: checks 
+Juscool: checks 
+*** TURN *** [Js 8c 3d] [Kh]
+leszek123a5: checks 
+Juscool: checks 
+*** RIVER *** [Js 8c 3d Kh] [Ts]
+leszek123a5: checks 
+Juscool: checks 
+*** SHOW DOWN ***
+leszek123a5: shows [Ac 4h] (high card Ace)
+Juscool: mucks hand 
+leszek123a5 collected 14500 from pot
+*** SUMMARY ***
+Total pot 14500 | Rake 0 
+Board [Js 8c 3d Kh Ts]
+Seat 1: sticks828 folded before Flop (didn't bet)
+Seat 2: RomekPL folded before Flop (didn't bet)
+Seat 3: Arsen78x folded before Flop (didn't bet)
+Seat 4: cortichapa5 (button) folded before Flop (didn't bet)
+Seat 5: leszek123a5 (small blind) showed [Ac 4h] and won (14500) with high card Ace
+Seat 6: Juscool (big blind) mucked [2s Qc]
+Seat 7: SenSej19 folded before Flop (didn't bet)
+Seat 8: fabio_amaroo folded before Flop (didn't bet)
+Seat 9: RobRoberts82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #126748348234: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XIX (2500/5000) - 2014/12/12 16:55:00 ET
+Table '1066955653 1' 9-max Seat #5 is the button
+Seat 1: sticks828 (30444 in chips) 
+Seat 2: RomekPL (101681 in chips) 
+Seat 3: Arsen78x (24986 in chips) 
+Seat 4: cortichapa5 (45450 in chips) 
+Seat 5: leszek123a5 (53460 in chips) 
+Seat 6: Juscool (222537 in chips) 
+Seat 7: SenSej19 (63066 in chips) 
+Seat 8: fabio_amaroo (84198 in chips) 
+Seat 9: RobRoberts82 (28678 in chips) 
+sticks828: posts the ante 500
+RomekPL: posts the ante 500
+Arsen78x: posts the ante 500
+cortichapa5: posts the ante 500
+leszek123a5: posts the ante 500
+Juscool: posts the ante 500
+SenSej19: posts the ante 500
+fabio_amaroo: posts the ante 500
+RobRoberts82: posts the ante 500
+Juscool: posts small blind 2500
+SenSej19: posts big blind 5000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [4c 4h]
+fabio_amaroo: raises 5000 to 10000
+RobRoberts82: folds 
+sticks828: calls 10000
+RomekPL: calls 10000
+Arsen78x: folds 
+cortichapa5: folds 
+leszek123a5: folds 
+Juscool: calls 7500
+SenSej19: folds 
+*** FLOP *** [9c 9h 3c]
+Juscool: bets 25000
+fabio_amaroo: raises 48698 to 73698 and is all-in
+sticks828: calls 19944 and is all-in
+RomekPL: raises 17483 to 91181 and is all-in
+Juscool: calls 66181
+*** TURN *** [9c 9h 3c] [2s]
+*** RIVER *** [9c 9h 3c 2s] [8h]
+*** SHOW DOWN ***
+Juscool: shows [Tc Kc] (a pair of Nines)
+RomekPL: shows [Jc Qc] (a pair of Nines - lower kicker)
+Juscool collected 34966 from side pot-2 
+fabio_amaroo: shows [Js 9s] (three of a kind, Nines)
+fabio_amaroo collected 161262 from side pot-1 
+sticks828: shows [Qd Td] (a pair of Nines)
+fabio_amaroo collected 129276 from main pot
+RomekPL finished the tournament in 8th place and received 56400.
+sticks828 finished the tournament in 9th place and received 37600.
+*** SUMMARY ***
+Total pot 325504 Main pot 129276. Side pot-1 161262. Side pot-2 34966. | Rake 0 
+Board [9c 9h 3c 2s 8h]
+Seat 1: sticks828 showed [Qd Td] and lost with a pair of Nines
+Seat 2: RomekPL showed [Jc Qc] and lost with a pair of Nines
+Seat 3: Arsen78x folded before Flop (didn't bet)
+Seat 4: cortichapa5 folded before Flop (didn't bet)
+Seat 5: leszek123a5 (button) folded before Flop (didn't bet)
+Seat 6: Juscool (small blind) showed [Tc Kc] and won (34966) with a pair of Nines
+Seat 7: SenSej19 (big blind) folded before Flop
+Seat 8: fabio_amaroo showed [Js 9s] and won (290538) with three of a kind, Nines
+Seat 9: RobRoberts82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #126748634947: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XIX (2500/5000) - 2014/12/12 17:00:39 ET
+Table '1066955653 1' 9-max Seat #6 is the button
+Seat 3: Arsen78x (24486 in chips) 
+Seat 4: cortichapa5 (44950 in chips) 
+Seat 5: leszek123a5 (52960 in chips) 
+Seat 6: Juscool (155822 in chips) 
+Seat 7: SenSej19 (57566 in chips) 
+Seat 8: fabio_amaroo (290538 in chips) 
+Seat 9: RobRoberts82 (28178 in chips) 
+Arsen78x: posts the ante 500
+cortichapa5: posts the ante 500
+leszek123a5: posts the ante 500
+Juscool: posts the ante 500
+SenSej19: posts the ante 500
+fabio_amaroo: posts the ante 500
+RobRoberts82: posts the ante 500
+SenSej19: posts small blind 2500
+fabio_amaroo: posts big blind 5000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [9s 9c]
+RobRoberts82: raises 22678 to 27678 and is all-in
+Arsen78x: folds 
+cortichapa5: folds 
+leszek123a5: folds 
+Juscool: folds 
+SenSej19: folds 
+fabio_amaroo: folds 
+Uncalled bet (22678) returned to RobRoberts82
+RobRoberts82 collected 16000 from pot
+*** SUMMARY ***
+Total pot 16000 | Rake 0 
+Seat 3: Arsen78x folded before Flop (didn't bet)
+Seat 4: cortichapa5 folded before Flop (didn't bet)
+Seat 5: leszek123a5 folded before Flop (didn't bet)
+Seat 6: Juscool (button) folded before Flop (didn't bet)
+Seat 7: SenSej19 (small blind) folded before Flop
+Seat 8: fabio_amaroo (big blind) folded before Flop
+Seat 9: RobRoberts82 collected (16000)
+
+
+
+PokerStars Hand #126748666377: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XX (3000/6000) - 2014/12/12 17:01:12 ET
+Table '1066955653 1' 9-max Seat #7 is the button
+Seat 3: Arsen78x (23986 in chips) 
+Seat 4: cortichapa5 (44450 in chips) 
+Seat 5: leszek123a5 (52460 in chips) 
+Seat 6: Juscool (155322 in chips) 
+Seat 7: SenSej19 (54566 in chips) 
+Seat 8: fabio_amaroo (285038 in chips) 
+Seat 9: RobRoberts82 (38678 in chips) 
+Arsen78x: posts the ante 600
+cortichapa5: posts the ante 600
+leszek123a5: posts the ante 600
+Juscool: posts the ante 600
+SenSej19: posts the ante 600
+fabio_amaroo: posts the ante 600
+RobRoberts82: posts the ante 600
+fabio_amaroo: posts small blind 3000
+RobRoberts82: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [Js 2d]
+Arsen78x: calls 6000
+cortichapa5: calls 6000
+leszek123a5: folds 
+Juscool: folds 
+SenSej19: folds 
+fabio_amaroo: calls 3000
+RobRoberts82: checks 
+*** FLOP *** [Jc 4h 9c]
+fabio_amaroo: checks 
+RobRoberts82: bets 32078 and is all-in
+Arsen78x: folds 
+cortichapa5: folds 
+fabio_amaroo: folds 
+Uncalled bet (32078) returned to RobRoberts82
+RobRoberts82 collected 28200 from pot
+*** SUMMARY ***
+Total pot 28200 | Rake 0 
+Board [Jc 4h 9c]
+Seat 3: Arsen78x folded on the Flop
+Seat 4: cortichapa5 folded on the Flop
+Seat 5: leszek123a5 folded before Flop (didn't bet)
+Seat 6: Juscool folded before Flop (didn't bet)
+Seat 7: SenSej19 (button) folded before Flop (didn't bet)
+Seat 8: fabio_amaroo (small blind) folded on the Flop
+Seat 9: RobRoberts82 (big blind) collected (28200)
+
+
+
+PokerStars Hand #126748699486: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XX (3000/6000) - 2014/12/12 17:01:45 ET
+Table '1066955653 1' 9-max Seat #8 is the button
+Seat 3: Arsen78x (17386 in chips) 
+Seat 4: cortichapa5 (37850 in chips) 
+Seat 5: leszek123a5 (51860 in chips) 
+Seat 6: Juscool (154722 in chips) 
+Seat 7: SenSej19 (53966 in chips) 
+Seat 8: fabio_amaroo (278438 in chips) 
+Seat 9: RobRoberts82 (60278 in chips) 
+Arsen78x: posts the ante 600
+cortichapa5: posts the ante 600
+leszek123a5: posts the ante 600
+Juscool: posts the ante 600
+SenSej19: posts the ante 600
+fabio_amaroo: posts the ante 600
+RobRoberts82: posts the ante 600
+RobRoberts82: posts small blind 3000
+Arsen78x: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [8h Jc]
+cortichapa5: folds 
+leszek123a5: folds 
+Juscool: folds 
+SenSej19: calls 6000
+fabio_amaroo: folds 
+RobRoberts82: folds 
+Arsen78x: checks 
+*** FLOP *** [9d Js Jd]
+Arsen78x: checks 
+SenSej19: bets 6000
+Arsen78x: raises 4786 to 10786 and is all-in
+SenSej19: calls 4786
+*** TURN *** [9d Js Jd] [Kc]
+*** RIVER *** [9d Js Jd Kc] [5h]
+*** SHOW DOWN ***
+Arsen78x: shows [Ks Qs] (two pair, Kings and Jacks)
+SenSej19: shows [6h 6c] (two pair, Jacks and Sixes)
+Arsen78x collected 40772 from pot
+*** SUMMARY ***
+Total pot 40772 | Rake 0 
+Board [9d Js Jd Kc 5h]
+Seat 3: Arsen78x (big blind) showed [Ks Qs] and won (40772) with two pair, Kings and Jacks
+Seat 4: cortichapa5 folded before Flop (didn't bet)
+Seat 5: leszek123a5 folded before Flop (didn't bet)
+Seat 6: Juscool folded before Flop (didn't bet)
+Seat 7: SenSej19 showed [6h 6c] and lost with two pair, Jacks and Sixes
+Seat 8: fabio_amaroo (button) folded before Flop (didn't bet)
+Seat 9: RobRoberts82 (small blind) folded before Flop
+
+
+
+PokerStars Hand #126748737365: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XX (3000/6000) - 2014/12/12 17:02:22 ET
+Table '1066955653 1' 9-max Seat #9 is the button
+Seat 3: Arsen78x (40772 in chips) 
+Seat 4: cortichapa5 (37250 in chips) 
+Seat 5: leszek123a5 (51260 in chips) 
+Seat 6: Juscool (154122 in chips) 
+Seat 7: SenSej19 (36580 in chips) 
+Seat 8: fabio_amaroo (277838 in chips) 
+Seat 9: RobRoberts82 (56678 in chips) 
+Arsen78x: posts the ante 600
+cortichapa5: posts the ante 600
+leszek123a5: posts the ante 600
+Juscool: posts the ante 600
+SenSej19: posts the ante 600
+fabio_amaroo: posts the ante 600
+RobRoberts82: posts the ante 600
+Arsen78x: posts small blind 3000
+cortichapa5: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [8s Qs]
+leszek123a5: calls 6000
+Juscool: folds 
+SenSej19: folds 
+fabio_amaroo: raises 6000 to 12000
+RobRoberts82: folds 
+Arsen78x: folds 
+cortichapa5: folds 
+leszek123a5: calls 6000
+*** FLOP *** [9c Qd 4d]
+leszek123a5: checks 
+fabio_amaroo: checks 
+*** TURN *** [9c Qd 4d] [3d]
+leszek123a5: checks 
+fabio_amaroo: bets 6000
+leszek123a5: calls 6000
+*** RIVER *** [9c Qd 4d 3d] [Th]
+leszek123a5: bets 6000
+fabio_amaroo: calls 6000
+*** SHOW DOWN ***
+leszek123a5: shows [Kc Js] (a straight, Nine to King)
+fabio_amaroo: mucks hand 
+leszek123a5 collected 61200 from pot
+*** SUMMARY ***
+Total pot 61200 | Rake 0 
+Board [9c Qd 4d 3d Th]
+Seat 3: Arsen78x (small blind) folded before Flop
+Seat 4: cortichapa5 (big blind) folded before Flop
+Seat 5: leszek123a5 showed [Kc Js] and won (61200) with a straight, Nine to King
+Seat 6: Juscool folded before Flop (didn't bet)
+Seat 7: SenSej19 folded before Flop (didn't bet)
+Seat 8: fabio_amaroo mucked [Ac Jd]
+Seat 9: RobRoberts82 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #126748774327: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XX (3000/6000) - 2014/12/12 17:02:58 ET
+Table '1066955653 1' 9-max Seat #3 is the button
+Seat 3: Arsen78x (37172 in chips) 
+Seat 4: cortichapa5 (30650 in chips) 
+Seat 5: leszek123a5 (87860 in chips) 
+Seat 6: Juscool (153522 in chips) 
+Seat 7: SenSej19 (35980 in chips) 
+Seat 8: fabio_amaroo (253238 in chips) 
+Seat 9: RobRoberts82 (56078 in chips) 
+Arsen78x: posts the ante 600
+cortichapa5: posts the ante 600
+leszek123a5: posts the ante 600
+Juscool: posts the ante 600
+SenSej19: posts the ante 600
+fabio_amaroo: posts the ante 600
+RobRoberts82: posts the ante 600
+cortichapa5: posts small blind 3000
+leszek123a5: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [7d 3d]
+Juscool: folds 
+SenSej19: raises 12000 to 18000
+fabio_amaroo: folds 
+RobRoberts82: folds 
+Arsen78x: folds 
+cortichapa5: folds 
+leszek123a5: folds 
+Uncalled bet (12000) returned to SenSej19
+SenSej19 collected 19200 from pot
+SenSej19: doesn't show hand 
+*** SUMMARY ***
+Total pot 19200 | Rake 0 
+Seat 3: Arsen78x (button) folded before Flop (didn't bet)
+Seat 4: cortichapa5 (small blind) folded before Flop
+Seat 5: leszek123a5 (big blind) folded before Flop
+Seat 6: Juscool folded before Flop (didn't bet)
+Seat 7: SenSej19 collected (19200)
+Seat 8: fabio_amaroo folded before Flop (didn't bet)
+Seat 9: RobRoberts82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #126748788566: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XX (3000/6000) - 2014/12/12 17:03:11 ET
+Table '1066955653 1' 9-max Seat #4 is the button
+Seat 3: Arsen78x (36572 in chips) 
+Seat 4: cortichapa5 (27050 in chips) 
+Seat 5: leszek123a5 (81260 in chips) 
+Seat 6: Juscool (152922 in chips) 
+Seat 7: SenSej19 (48580 in chips) 
+Seat 8: fabio_amaroo (252638 in chips) 
+Seat 9: RobRoberts82 (55478 in chips) 
+Arsen78x: posts the ante 600
+cortichapa5: posts the ante 600
+leszek123a5: posts the ante 600
+Juscool: posts the ante 600
+SenSej19: posts the ante 600
+fabio_amaroo: posts the ante 600
+RobRoberts82: posts the ante 600
+leszek123a5: posts small blind 3000
+Juscool: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [3c Ac]
+SenSej19: calls 6000
+fabio_amaroo: folds 
+RobRoberts82: calls 6000
+Arsen78x: folds 
+cortichapa5: folds 
+leszek123a5: calls 3000
+Juscool: checks 
+*** FLOP *** [8h 6c Ad]
+leszek123a5: checks 
+Juscool: checks 
+SenSej19: checks 
+RobRoberts82: bets 12000
+leszek123a5: folds 
+Juscool: folds 
+SenSej19: calls 12000
+*** TURN *** [8h 6c Ad] [7h]
+SenSej19: checks 
+RobRoberts82: bets 12000
+SenSej19: raises 17980 to 29980 and is all-in
+RobRoberts82: calls 17980
+*** RIVER *** [8h 6c Ad 7h] [4c]
+*** SHOW DOWN ***
+SenSej19: shows [6d 7d] (two pair, Sevens and Sixes)
+RobRoberts82: shows [3c Ac] (a pair of Aces)
+SenSej19 collected 112160 from pot
+*** SUMMARY ***
+Total pot 112160 | Rake 0 
+Board [8h 6c Ad 7h 4c]
+Seat 3: Arsen78x folded before Flop (didn't bet)
+Seat 4: cortichapa5 (button) folded before Flop (didn't bet)
+Seat 5: leszek123a5 (small blind) folded on the Flop
+Seat 6: Juscool (big blind) folded on the Flop
+Seat 7: SenSej19 showed [6d 7d] and won (112160) with two pair, Sevens and Sixes
+Seat 8: fabio_amaroo folded before Flop (didn't bet)
+Seat 9: RobRoberts82 showed [3c Ac] and lost with a pair of Aces
+
+
+
+PokerStars Hand #126748822897: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XX (3000/6000) - 2014/12/12 17:03:44 ET
+Table '1066955653 1' 9-max Seat #5 is the button
+Seat 3: Arsen78x (35972 in chips) 
+Seat 4: cortichapa5 (26450 in chips) 
+Seat 5: leszek123a5 (74660 in chips) 
+Seat 6: Juscool (146322 in chips) 
+Seat 7: SenSej19 (112160 in chips) 
+Seat 8: fabio_amaroo (252038 in chips) 
+Seat 9: RobRoberts82 (6898 in chips) 
+Arsen78x: posts the ante 600
+cortichapa5: posts the ante 600
+leszek123a5: posts the ante 600
+Juscool: posts the ante 600
+SenSej19: posts the ante 600
+fabio_amaroo: posts the ante 600
+RobRoberts82: posts the ante 600
+Juscool: posts small blind 3000
+SenSej19: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [Qc 4d]
+fabio_amaroo: folds 
+leszek123a5 said, "(y)"
+RobRoberts82: folds 
+Arsen78x: folds 
+cortichapa5: folds 
+leszek123a5: folds 
+Juscool: calls 3000
+SenSej19: checks 
+*** FLOP *** [Jc Ad Ac]
+Juscool: bets 6000
+SenSej19 said, "dzieki"
+SenSej19: folds [Jh]
+Uncalled bet (6000) returned to Juscool
+Juscool collected 16200 from pot
+*** SUMMARY ***
+Total pot 16200 | Rake 0 
+Board [Jc Ad Ac]
+Seat 3: Arsen78x folded before Flop (didn't bet)
+Seat 4: cortichapa5 folded before Flop (didn't bet)
+Seat 5: leszek123a5 (button) folded before Flop (didn't bet)
+Seat 6: Juscool (small blind) collected (16200)
+Seat 7: SenSej19 (big blind) folded on the Flop
+Seat 8: fabio_amaroo folded before Flop (didn't bet)
+Seat 9: RobRoberts82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #126748843845: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XX (3000/6000) - 2014/12/12 17:04:04 ET
+Table '1066955653 1' 9-max Seat #6 is the button
+Seat 3: Arsen78x (35372 in chips) 
+Seat 4: cortichapa5 (25850 in chips) 
+Seat 5: leszek123a5 (74060 in chips) 
+Seat 6: Juscool (155922 in chips) 
+Seat 7: SenSej19 (105560 in chips) 
+Seat 8: fabio_amaroo (251438 in chips) 
+Seat 9: RobRoberts82 (6298 in chips) 
+Arsen78x: posts the ante 600
+cortichapa5: posts the ante 600
+leszek123a5: posts the ante 600
+Juscool: posts the ante 600
+SenSej19: posts the ante 600
+fabio_amaroo: posts the ante 600
+RobRoberts82: posts the ante 600
+SenSej19: posts small blind 3000
+fabio_amaroo: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [4h 5d]
+RobRoberts82 said, "suflaki"
+RobRoberts82: folds 
+Arsen78x: folds 
+cortichapa5: folds 
+leszek123a5: folds 
+Juscool: folds 
+SenSej19 has timed out while being disconnected
+SenSej19: folds 
+Uncalled bet (3000) returned to fabio_amaroo
+fabio_amaroo collected 10200 from pot
+fabio_amaroo: doesn't show hand 
+*** SUMMARY ***
+Total pot 10200 | Rake 0 
+Seat 3: Arsen78x folded before Flop (didn't bet)
+Seat 4: cortichapa5 folded before Flop (didn't bet)
+Seat 5: leszek123a5 folded before Flop (didn't bet)
+Seat 6: Juscool (button) folded before Flop (didn't bet)
+Seat 7: SenSej19 (small blind) folded before Flop
+Seat 8: fabio_amaroo (big blind) collected (10200)
+Seat 9: RobRoberts82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #126748877773: Tournament #1066955653, 4500+500 Hold'em No Limit - Level XX (3000/6000) - 2014/12/12 17:04:36 ET
+Table '1066955653 1' 9-max Seat #7 is the button
+Seat 3: Arsen78x (34772 in chips) 
+Seat 4: cortichapa5 (25250 in chips) 
+Seat 5: leszek123a5 (73460 in chips) 
+Seat 6: Juscool (155322 in chips) 
+Seat 7: SenSej19 (101960 in chips) is sitting out
+Seat 8: fabio_amaroo (258038 in chips) 
+Seat 9: RobRoberts82 (5698 in chips) 
+Arsen78x: posts the ante 600
+cortichapa5: posts the ante 600
+leszek123a5: posts the ante 600
+Juscool: posts the ante 600
+SenSej19: posts the ante 600
+fabio_amaroo: posts the ante 600
+RobRoberts82: posts the ante 600
+fabio_amaroo: posts small blind 3000
+RobRoberts82: posts big blind 5098 and is all-in
+*** HOLE CARDS ***
+Dealt to RobRoberts82 [7c Js]
+Arsen78x: folds 
+cortichapa5: calls 6000
+leszek123a5: folds 
+SenSej19 is disconnected 
+Juscool: folds 
+SenSej19: folds 
+fabio_amaroo: raises 251438 to 257438 and is all-in
+cortichapa5: calls 18650 and is all-in
+Uncalled bet (232788) returned to fabio_amaroo
+*** FLOP *** [2h 9d Ts]
+*** TURN *** [2h 9d Ts] [Kh]
+*** RIVER *** [2h 9d Ts Kh] [Td]
+*** SHOW DOWN ***
+fabio_amaroo: shows [6h 6s] (two pair, Tens and Sixes)
+cortichapa5: shows [Ad Jc] (a pair of Tens)
+fabio_amaroo collected 39104 from side pot
+RobRoberts82: shows [7c Js] (a pair of Tens)
+fabio_amaroo collected 19494 from main pot
+cortichapa5 finished the tournament in 6th place and received 94000.
+RobRoberts82 finished the tournament in 7th place and received 75200.
+*** SUMMARY ***
+Total pot 58598 Main pot 19494. Side pot 39104. | Rake 0 
+Board [2h 9d Ts Kh Td]
+Seat 3: Arsen78x folded before Flop (didn't bet)
+Seat 4: cortichapa5 showed [Ad Jc] and lost with a pair of Tens
+Seat 5: leszek123a5 folded before Flop (didn't bet)
+Seat 6: Juscool folded before Flop (didn't bet)
+Seat 7: SenSej19 (button) folded before Flop (didn't bet)
+Seat 8: fabio_amaroo (small blind) showed [6h 6s] and won (58598) with two pair, Tens and Sixes
+Seat 9: RobRoberts82 (big blind) showed [7c Js] and lost with a pair of Tens
+
+
+
