@@ -1,0 +1,13 @@
+C:\Users\rroberts\Source\Repos\CardStats\CardStatApp\CardStatApp\obj\Debug\CardStatApp.csprojResolveAssemblyReference.cache
+C:\Users\rroberts\Source\Repos\CardStats\CardStatApp\CardStatApp\obj\Debug\CardStatApp.Properties.Resources.resources
+C:\Users\rroberts\Source\Repos\CardStats\CardStatApp\CardStatApp\obj\Debug\CardStatApp.csproj.GenerateResource.Cache
+C:\Users\rroberts\Source\Repos\CardStats\CardStatApp\CardStatApp\bin\Debug\CardStatApp.exe.config
+C:\Users\rroberts\Source\Repos\CardStats\CardStatApp\CardStatApp\bin\Debug\CardStatApp.exe
+C:\Users\rroberts\Source\Repos\CardStats\CardStatApp\CardStatApp\bin\Debug\CardStatApp.pdb
+C:\Users\rroberts\Source\Repos\CardStats\CardStatApp\CardStatApp\bin\Debug\EntityFramework.dll
+C:\Users\rroberts\Source\Repos\CardStats\CardStatApp\CardStatApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rroberts\Source\Repos\CardStats\CardStatApp\CardStatApp\bin\Debug\EntityFramework.xml
+C:\Users\rroberts\Source\Repos\CardStats\CardStatApp\CardStatApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rroberts\Source\Repos\CardStats\CardStatApp\CardStatApp\obj\Debug\CardStatApp.exe
+C:\Users\rroberts\Source\Repos\CardStats\CardStatApp\CardStatApp\obj\Debug\CardStatApp.pdb
+C:\Users\rroberts\Source\Repos\CardStats\CardStatApp\CardStatApp\obj\Debug\CardStatApp.Form1.resources
