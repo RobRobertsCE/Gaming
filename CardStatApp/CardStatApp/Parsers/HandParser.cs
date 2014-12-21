@@ -4,6 +4,7 @@
     using System.Collections.Generic;
     using System.IO;
     using System.Linq;
+    using CardStatApp.Data;
     using CardStatApp.HandLines;
     using CardStatApp.Models;
     
@@ -30,6 +31,8 @@
                 return System.IO.Path.Combine(this.ResultDirectory, "HandArchive");
             }
         }
+
+        CardStatsContext context = null;
         #endregion
 
         #region ctor
@@ -39,6 +42,8 @@
             Messages = new List<string>();
             Errors = new List<string>();
             Warnings = new List<string>();
+
+            context = new CardStatsContext();
         }
         public HandParser(string directory)
             : this()
@@ -544,7 +549,24 @@
         }
         void SaveCurrentHand()
         {
-
+            try
+            {
+                context.SaveChanges();
+            }
+            catch (System.Data.Entity.Validation.DbEntityValidationException ex)
+            {
+                foreach (var eve in ex.EntityValidationErrors)
+                {
+                    foreach (var ve in eve.ValidationErrors)
+                    {
+                        Console.WriteLine(String.Format("Validation Error: Property {0}; Message: {1}", ve.PropertyName, ve.ErrorMessage));
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+            }
         }
         #endregion
 

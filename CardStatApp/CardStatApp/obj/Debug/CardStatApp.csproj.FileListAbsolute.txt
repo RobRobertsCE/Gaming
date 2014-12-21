@@ -11,3 +11,6 @@ C:\Users\rroberts\Source\Repos\CardStats\CardStatApp\CardStatApp\bin\Debug\Entit
 C:\Users\rroberts\Source\Repos\CardStats\CardStatApp\CardStatApp\obj\Debug\CardStatApp.exe
 C:\Users\rroberts\Source\Repos\CardStats\CardStatApp\CardStatApp\obj\Debug\CardStatApp.pdb
 C:\Users\rroberts\Source\Repos\CardStats\CardStatApp\CardStatApp\obj\Debug\CardStatApp.Form1.resources
+C:\Users\rroberts\Source\Repos\Gaming\CardStatApp\CardStatApp\bin\Debug\CardStatApp.exe.config
+C:\Users\rroberts\Source\Repos\Gaming\CardStatApp\CardStatApp\obj\Debug\CardStatApp.exe
+C:\Users\rroberts\Source\Repos\Gaming\CardStatApp\CardStatApp\obj\Debug\CardStatApp.pdb
